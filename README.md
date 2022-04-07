@@ -7,6 +7,8 @@
 - Login.
 - Minimal use of JavaScript (35 lines without comments).
 
+![Screenshot](screenshot.png)
+
 ## Run 🏃
 
 ```
